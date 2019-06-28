@@ -1,0 +1,136 @@
+X _ { n } ^ { I }
+H _ { 0 } = \frac { 1 } { 2 p ^ { + } } \sum _ { n \in Z } ( p _ { n } ^ { I } p _ { - n } ^ { I } + m _ { n } ^ { 2 } x _ { n } ^ { I } x _ { - n } ^ { I } ) .
+p _ { n } ^ { I } = p _ { - n } ^ { I }
+Z ^ { I } ( \tau , \sigma , \rho + 2 \pi R ) = Z ^ { I } ( \tau , \sigma , \rho )
+\frac { 1 } { 2 \pi R } \sum _ { n \in Z } \frac { 1 } { a _ { n } a _ { - n } } q _ { n } ( \rho ) q _ { - n } ( \rho ^ { \prime } ) = \delta ( \rho - \rho ^ { \prime } ) .
+H _ { 0 } = - \frac { p } { 1 2 R } + \sum _ { n \in Z } \omega _ { 0 n } a _ { 0 n } ^ { i \dagger } a _ { 0 n } ^ { i } ,
+H _ { 0 } ^ { \prime }
+{ \tilde { \alpha } } _ { l n } ^ { I }
+P ^ { I } = \frac { 1 } { 2 \pi \alpha ^ { \prime } } \partial _ { \tau } X ^ { I }
+- \mu _ { n }
+C = - \frac { 1 } { 6 \alpha ^ { \prime } p ^ { + } } + 8 \sum _ { l = 1 } ^ { \infty } \sum _ { n = 1 } ^ { \infty } | \omega _ { l n } | .
+W _ { l n }
+{ \tilde { a } } _ { l n } ^ { I }
+Z ^ { 1 0 } = \rho
+4 \pi ^ { 2 } \alpha ^ { \prime } T _ { 2 }
+Y _ { n } ^ { I \dagger } = Y _ { - n } ^ { I }
+\alpha ^ { \prime }
+\sum _ { n \in Z } q _ { n } ( \rho ) q _ { - n } ( \rho ^ { \prime } ) = \frac { 1 } { 2 \pi \alpha ^ { \prime } T _ { 2 } } \delta ( \rho - \rho ^ { \prime } ) .
+X ^ { I } = X _ { L } ^ { I } - X _ { R } ^ { I }
+{ \cal { M } } _ { n }
+H _ { \mathrm { o s c } } ^ { ( n ) }
+\Pi _ { n } ^ { I } = \Pi _ { - n } ^ { I }
+\eta _ { A B } = \mathrm { d i a g } ( - 1 , 1 , 1 )
+\rho , \sigma
+\sigma _ { 0 } = 0 \; , 2 \pi \alpha ^ { \prime } p ^ { + }
+\mu _ { n } = \frac { n } { R } = n ( 4 \pi ^ { 2 } \alpha ^ { \prime } T _ { 2 } ) .
+m _ { n } = p ^ { + } \mu _ { n }
+Z ^ { I } ( \tau , \sigma , \rho ) = \sum _ { n = - \infty } ^ { \infty } X _ { n } ^ { I } ( \tau , \sigma ) q _ { n } ( \rho ) ,
+H = \sum _ { n \in Z } H _ { n }
+\alpha _ { l n } ^ { I } = \sqrt { | W _ { l n } | } a _ { l n } ^ { I }
+Z ^ { I } ( \tau , \sigma , \rho )
+X ^ { I } \leftrightarrow X ^ { I }
+\mu _ { n }
+a _ { n } a _ { - n } = 1
+a _ { 0 n } ^ { I \dagger }
+Z ^ { 1 0 }
+\frac { 1 } { \alpha ^ { \prime } } L ^ { I } = p _ { L } ^ { I } - p _ { R } ^ { I }
+S _ { 0 } ^ { \prime }
+n = n ^ { \prime }
+[ a _ { 0 n } ^ { I } \; , \; a _ { 0 n ^ { \prime } } ^ { J \dagger } ] = \delta ^ { I J } \delta _ { n n ^ { \prime } } .
+X _ { - n } ^ { I }
+H _ { n } ^ { \prime }
+^ ,
+\alpha _ { l , - n } ^ { I }
+\eta _ { a b } = \mathrm { d i a g } ( - 1 , 1 )
+S ^ { \prime }
+\{ q _ { n } ( \rho ) \}
+\Pi _ { n } ^ { I }
+S = - \frac { T _ { 2 } } { 2 } \int d ^ { 2 } \sigma d \rho \eta ^ { A B } \partial _ { A } Z ^ { I } \partial _ { B } Z ^ { I } ,
+( - \partial _ { \tau } ^ { 2 } + \partial _ { \sigma } ^ { 2 } + \partial _ { \rho } ^ { 2 } ) Z ^ { I } ( \tau , \sigma , \rho ) = 0 .
+A _ { 0 }
+\omega _ { l n }
+S ^ { \prime } = S _ { 0 } ^ { \prime } + S _ { + } ^ { \prime } + S _ { - } ^ { \prime }
+{ \tilde { \alpha } } _ { l , - n } ^ { I }
+\rho
+{ \tilde { \alpha } } _ { - l , n } ^ { I }
+{ \cal { M } } _ { n } ^ { T } { \cal { M } } _ { n } = { \cal { M } } _ { n } { \cal { M } } _ { - n } ^ { T } = { \bf J } .
+{ \Pi ^ { \prime } } _ { n } ^ { I } ( \tau , \sigma ) = \frac { 1 } { 2 \pi \alpha ^ { \prime } } \partial _ { n } ^ { I } ( \tau , \sigma ) .
+S _ { + } ^ { \dagger } = S _ { - } ^ { \prime }
+H = H _ { 0 } + H _ { \mathrm { o s c } }
+\alpha _ { - l , - n } ^ { I }
+{ \bf J }
+H _ { \mathrm { o s c } }
+p ^ { I } = p _ { L } ^ { I } + p _ { R } ^ { I }
+H _ { 0 } = \frac { 1 } { 2 p ^ { + } } \sum _ { n \in Z } ( p _ { n } ^ { i } p _ { - n } ^ { i } + m _ { n } ^ { 2 } x _ { n } ^ { i } x _ { - n } ^ { i } ) ,
+p = 8
+n \rightarrow - n
+H _ { n }
+\Pi _ { n } ^ { I }
+H _ { 0 } ^ { ( n ) }
+\sum _ { l = 1 } ^ { \infty } l \rightarrow - \frac { 1 } { 1 2 }
+\tau
+Z ^ { \pm } = \frac { 1 } { { \sqrt 2 } } ( Z ^ { 0 } \pm Z ^ { 9 } )
+H ^ { \prime } = H _ { 0 } ^ { \prime } + \sum _ { n = 1 } ^ { \infty } ( H _ { n } ^ { \prime } + H _ { - n } ^ { \prime } )
+{ \cal { M } } _ { n } { \bf J } = { \bf J } { \cal { M } } _ { - n } .
+T _ { 2 }
+H _ { n } ^ { \prime } + H _ { - n } ^ { \prime }
+\Pi ^ { I } ( \tau , \sigma , \rho ) = T _ { 2 } \sum _ { n \in Z } q _ { n } ( \rho ) \partial _ { n } ^ { I } ( \tau , \sigma ) .
+{ \cal { M } } _ { n } ^ { T } { \cal { M } } _ { - n } = { \cal { M } } _ { n } { \cal { M } } _ { n } ^ { T } = { \bf J } ,
+\operatorname* { d e t } ( { \cal { M } } _ { n } ) = \operatorname* { d e t } ( { \cal { M } } _ { - n } )
+X ^ { I }
+\{ X _ { n } ^ { I } ( \tau , \sigma ) | n \in Z \}
+{ \cal { M } } _ { n } ^ { T } { \cal { M } } _ { - n } = { \cal { M } } _ { n } { \cal { M } } _ { - n } ^ { T } = { \bf 1 } .
+S _ { + } ^ { \prime }
+{ \cal { M } } _ { n } ^ { T } { \cal { M } } _ { n } = { \cal { M } } _ { n } { \cal { M } } _ { n } ^ { T } = { \bf 1 } .
+2 \pi \alpha ^ { \prime }
+{ \bar { S } } = S + S ^ { \prime }
+a _ { l n } ^ { I }
+{ \tilde { A } }
+Z ^ { I } ( \tau , \sigma , \rho )
+H _ { 0 } = \sum _ { n \in Z } ( \omega _ { 0 n } a _ { 0 n } ^ { I \dagger } a _ { 0 n } ^ { I } ) + A _ { 0 } .
+X _ { n } ^ { I } \rightarrow X _ { - n } ^ { I }
+A _ { 0 } = 4 \sum _ { n \in Z } \omega _ { 0 n } = - \frac { 2 } { 3 R } = - \frac { 8 } { 3 } \pi ^ { 2 } \alpha ^ { \prime } T _ { 2 } ,
+{ \bar { S } }
+A = { \tilde { A } } = 4 \sum _ { n \in Z } \sum _ { l = 1 } ^ { \infty } | \omega _ { l n } | = - \frac { 1 } { 3 \alpha ^ { \prime } p ^ { + } } + 8 \sum _ { l = 1 } ^ { \infty } \sum _ { n = 1 } ^ { \infty } | \omega _ { l n } | ,
+\Pi _ { n } ^ { I } ( \tau , \sigma ) = \frac { 1 } { 2 \pi \alpha ^ { \prime } } \partial _ { \tau } X _ { - n } ^ { I } ( \tau , \sigma ) .
+\omega _ { 0 n } = | \mu _ { n } |
+A d S _ { 5 } \times S ^ { 5 }
+{ \bf J } = \left( \begin{array} { c c } { { \bf 0 } } & { { \bf 1 } _ { 8 \times 8 } } \\ { { \bf 1 } _ { 8 \times 8 } } & { { \bf 0 } } \\ \end{array} \right) .
+{ \tilde { \alpha } } _ { - l , - n } ^ { I }
+S _ { - } ^ { \prime }
+\{ X _ { n } ^ { I } ( \tau , \sigma ) \}
+X ^ { I }
+Z ^ { I } ( \tau , \sigma , \rho )
+X _ { n } ^ { I } ( \tau , \sigma )
+p _ { n } ^ { I }
+X _ { n } ^ { I } \leftrightarrow X _ { - n } ^ { I }
+I \in \{ 1 , 2 , . . . , 8 \}
+H = H _ { 0 } + H _ { \mathrm { o s c } }
+\int _ { 0 } ^ { 2 \pi R } d \rho q _ { n } ( \rho ) q _ { n ^ { \prime } } ( \rho ) = 2 \pi R a _ { n } a _ { - n } \delta _ { n + n ^ { \prime } , 0 } .
+{ \cal { M } } _ { n } = \left( \begin{array} { c c } { A _ { n } } & { B _ { n } } \\ { B _ { - n } } & { A _ { - n } } \\ \end{array} \right) .
+{ \bar { l } }
+W _ { l n } = 2 \alpha ^ { \prime } p ^ { + } \omega _ { l n } = \mathrm { s g n } ( l ) \sqrt { l ^ { 2 } + ( 2 \alpha ^ { \prime } m _ { n } ) ^ { 2 } } .
+q _ { n } ( \rho ) = a _ { n } \operatorname { e x p } ( \frac { i n \rho } { R } )
+( - \partial _ { \tau } ^ { 2 } + \partial _ { \sigma } ^ { 2 } - \mu _ { n } ^ { 2 } ) X _ { n } ^ { I } ( \tau , \sigma ) = 0 .
+[ a _ { l n } ^ { I } \; , \; a _ { l ^ { \prime } n ^ { \prime } } ^ { J } ] = [ { \tilde { a } } _ { l n } ^ { I } \; , \; { \tilde { a } } _ { l ^ { \prime } n ^ { \prime } } ^ { J } ] = \mathrm { s g n } ( l ) \delta ^ { I J } \delta _ { l + l ^ { \prime } , 0 } \delta _ { n + n ^ { \prime } , 0 } .
+H ^ { \prime }
+X _ { n } ^ { I } \rightarrow Y _ { n } ^ { I } = A _ { ( n ) J } ^ { I } X _ { n } ^ { J } + B _ { ( n ) J } ^ { I } X _ { - n } ^ { J } ,
+{ \cal { M } } _ { 0 }
+X ^ { + } = x ^ { + } + p ^ { + } \tau
+H _ { 0 }
+X _ { n } ^ { I } ( \tau , \sigma )
+0 \leq \rho \leq 2 \pi R
+R R
+8 \times 8
+W _ { l n } = \alpha ^ { \prime } p ^ { + } \omega _ { l n } = \mathrm { s g n } ( l ) \sqrt { l ^ { 2 } + ( \alpha ^ { \prime } m _ { n } ) ^ { 2 } } \; \; \; \; , \; \; \; \; { \bar { l } } = \frac { l } { \alpha ^ { \prime } p ^ { + } } .
+B _ { n }
+X ^ { I } = X _ { L } ^ { I } + X _ { R } ^ { I }
+A _ { n }
+a _ { 0 n } ^ { I }
+Z ^ { I } ( \tau , \sigma , \rho )
+\omega _ { 0 n } = | \mu _ { n } |
+\alpha _ { l n } ^ { I }
+\alpha _ { - l , n } ^ { I }
+R = \frac { 1 } { 4 \pi ^ { 2 } \alpha ^ { \prime } T _ { 2 } } .
+P ^ { I } = \frac { 1 } { 2 \pi \alpha ^ { \prime } } \partial _ { \tau } X ^ { I }
