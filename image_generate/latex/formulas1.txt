@@ -1,0 +1,154 @@
+\delta \BPsi / \delta A^a_0 (\bx)= 0
+A^a_0
+\hbar=1
+H^0 i \partial_{[\mu} \psi_{\nu ]} - H_{[\mu} H^0 \psi_{\nu ]} - H_{[\mu} H_{\nu ]}\psi = 0,
+{\bf N}
+\frac{\delta^2{\bf \Psi}  }{\delta A_i^a({\bf x})\delta A_i^a({\bf x})}   &=& tr \left \{   ||{\bf \Psi}|| \left (\varkappa^2 \Psi_\Sigma^{-1} \frac{\partial}{\partial A_a^i} \Psi_\Sigma \Psi_\Sigma^{-1} \frac{\partial}{\partial A_a^i} \Psi_\Sigma  \right . \right . \nonumber \\&& \hspace*{-65pt}\left . \left .  - \varkappa\delta^{n-1} (0) \Psi_\Sigma^{-1} \frac{\partial}{\partial A_a^i} \Psi_\Sigma \Psi_\Sigma^{-1} \frac{\partial}{\partial A_a^i} \Psi_\Sigma    + \varkappa\delta^{n-1} (0) \Psi_\Sigma^{-1} \frac{\partial^2}{\partial A_a^i\partial A_a^i } \Psi_\Sigma \right ) \right \} .
+{\cal C}_{[A_0, A]}
+[H^0,H_{\mu } ]  = 0 .
+\hat{\pi}_a^{\nu\mu} = - i\hbar\varkappa \gamma^\mu \frac{\partial}{\partial A^a_{\nu}} , %\half i\hbar\varkappa %\left ( \gamma^\mu \frac{\der}{\der A^a_{\nu}} %- \gamma^\nu \frac{\der}{\der A^a_{\mu}} \right ) .
+\Psi
+\widehat{H} =  - \frac{1}{2} \hbar^2\varkappa^2 \frac{\partial}{\partial A_{ai}\partial A_{ai} } - \frac{ig}{2}\hbar\varkappa  C^a{}_{bc}A^b_i A^c_j \gamma^j \frac{\partial}{\partial A^a_i } .
+{\bf N} [A({\bf x}), F({\bf x})]= \frac{1}{2} \int\!d{\bf x} \gamma^i F^a_{ij}({\bf x}) A_a^j({\bf x}) ??????
+{\bf \Psi}_S = tr \left \{ e^{-i{\bf N}} ||{\bf \Psi}|| \right \} .
+\frac{1}{\varkappa}\what{H}
+\psi_{\mu\nu}=0
+\Psib
+\sim \gamma^i \partial / \partial A^a_j
+A_d^k({\bf x}')
+N (A, [{\cal C}])= \frac{1}{2} \frac{g}{\hbar\varkappa}\int_{{\cal C}_{[A_0, A]}} C^a{}_{bc} A^b_\mu A^c_\sigma \gamma^\sigma d A_a^\mu ,
+C_{abc}
+1/\epsilon
+\widehat{H}'= - \frac{1}{2}\hbar^2\varkappa^2  \frac{\partial}{\partial A^a_i\partial A^a_i } + \frac{1}{8}g^2 %\delta_{ij} \delta^{kl}C^a{}_{bc} C_{ade} A^b_i A^c_j A^d_i A^e_j  .
+H_\mu = 0
+{}[ H_\mu, H_\nu ] %&=& ...\nn \\= C^e{}_{cf} C^d{}_{eb} A^b_l A^c_{[\mu} A^f_{\nu]}\frac{\partial}{\partial A^d_l}\neq 0 .
+-\delta^{ij}
+\widehat{H}' &=&  \frac{\hbar^2\varkappa^2}{2}\partial_{AA}+ \frac{\hbar^2\varkappa^2}{2}\partial_{AA} (iN) + \frac{\hbar^2\varkappa^2}{2} \partial_A (iN) \partial_A (iN) + \hbar^2\varkappa^2 \partial_A (iN) \partial_A \nonumber \\&&- e^{-i\hat{N}}( \frac{ig \hbar\varkappa }{2} CA\!\not\hspace{-3.5pt} A) \partial_A (iN)e^{i\hat{N}}  - e^{-i\hat{N}} (\frac{ig \hbar\varkappa }{2} CA\!\not\hspace{-3.5pt} A)e^{i\hat{N}} \partial_A .
+%\left < \Psi \right |\hat{\pi}_a^{(\nu\mu)}\left |\Psi\right > =0 ,
+\int \! d{\bf x} \int \! d{\bf x}'\,K_\epsilon({\bf x},{\bf x}')\frac{\delta}{\delta A^i_a({\bf x})}\frac{\delta}{\delta A^i_a({\bf x}')} \; .
++-...-
+\left ( \partial_i \frac{\delta}{\delta A^a_i({\bf x})} \, + \,  g C^a{}_{bc} A^b_i \frac{\delta}{\delta A^c_i({\bf x})} \right ) {\bf \Psi} = 0 ,
+F^a_{\mu\nu} := \partial_\mu A^a_\nu - \partial_\nu A^a_\mu + g C^a{}_{bc} A^b_\mu A^c_\nu ,  %= \der_\mu A_\nu - \der_\nu A_\mu +?? g [A_\mu, A_\nu]
+{\bf \Psi}= {\bf \Psi}([A^a_i({\bf x})],t)
+\widehat{H} = H^0 + H^1,
+A_a^\nu
+x^\mu=:({\bf x}, t)
+\Omega := d \pi_a^{\mu\nu}\wedge dA_{[\mu}^a \wedge \omega_{\nu ]}
+\overline{\Phi}
+\BPsi_S
+K_\epsilon(\bx,\bx')
+\partial_i< \widehat{\pi}{}_a^{0i}> + g <C_{abc}A_{bi}\widehat{\pi}{}_c^{0i}> = 0 .
+i\partial_t {\bf \Psi} =  \int \! d{\bf x}\,  \left ( - \frac{1}{2}\ \frac{\delta}{\delta A^i_a({\bf x})}\frac{\delta}{\delta A^i_a({\bf x})} + \frac{1}{4} F_a{}^{ij}({\bf x}) F_a{}^{ij}({\bf x})   \right) {\bf \Psi} .
+\widehat{H}' = e^{-i\hat{N}}\widehat{H}e^{i\hat{N}}
+\left < \right .\hat{\pi}_a^{(\nu\mu)} \left . \right > =0.
+i\partial_t \Psi_\Sigma = -i\alpha^i \left (\frac{d}{dx^i} - \partial_{[i} A{}^a_{j]} ({\bf x}) \frac{\partial}{\partial A^a_j } \right ) \Psi_\Sigma + \beta \widehat{H} \Psi_\Sigma  ,
+{\bf \Psi}([A ({\bf x})],t)
+i\partial_t \, tr \left \{ \phantom{\widehat{{\bf H}}||}\hspace{-15pt} ||{\bf \Psi}|| \right \} = tr \left \{ || \widehat{{\bf H}}||  \, ||{\bf \Psi}|| \right \} ,
+\Psi_\Sigma (A({\bf x}),{\bf x},t)
+\lim_{\epsilon\rightarrow 0} K_\epsilon({\bf x},{\bf x}') = \delta ({\bf x}-{\bf x}') .
+A ({\bf x})
+\partial_{[i} A{}^a{}_{j]} ({\bf x})
+\Sigma
+\left| \Psi \right >^{(+)}
+\varkappa \rightarrow \delta^{n-1}(0)
+A^a_i({\bf x})
+\hbar\varkappa=1
+K_\epsilon({\bf x},{\bf x}') = \delta({\bf x}-{\bf x}')
+%\beq\widehat{H} = \frac{1}{2} \hbar^2\varkappa^2 \partial_{AA} - \frac{1}{2}ig\hbar\varkappa\,CA\!\not\hspace{-3.5pt} A\,\partial_A.
+\Psi (A^\mu_{a}, x^\nu)
+\frac{\delta^2{\bf \Psi}  }{\delta A_i^a({\bf x})\delta A_i^a({\bf x})}   = tr \left \{   ||{\bf \Psi}|| \, \varkappa^2 \Psi_\Sigma^{-1}\frac{\partial^2}{\partial A^a_i \partial A^a_i} \Psi_\Sigma \right \} .
+{\bf \Psi}([A^a_i({\bf x})],t) = tr\left \{ (1+\beta) e^{\varkappa \int d{\bf x} \ln \Psi_\Sigma (A_i^a({\bf x}),{\bf x},t)}\right \} =: tr\left \{  ||{\bf \Psi} ||\right \},
+(A_\mu^a=A_\mu^a({\bf x}), t=const)
+\Psi = \psi + \psi_\mu\gamma^\mu + \frac{1}{2!} \psi_{\mu\nu}\gamma^{\mu\nu} +...
+|\bx-\bx'|
+&&\frac{\delta }{\delta A_d^k({\bf x}')}\frac{\delta {\bf N}}{\delta A_a^j({\bf x})} - \frac{\delta }{\delta A_a^j({\bf x})} \frac{\delta{\bf N}}{\delta A_d^k({\bf x}')}= \gamma^i \left (\frac{\partial}{\partial x^{[i}} \delta({\bf x}-{\bf x}') - \frac{\partial}{\partial x'{}^{[i}} \delta ({\bf x}'-{\bf x})\right ) \delta_{j]k} \delta^{ad} \nonumber \\ &&... ???? %\gamma^i ( \der_{[i} A_{j]}^a(\bx) %- \frac{g}{2} C^a{}_{bc}A^b_{j}(\bx) A^c_{i}(\bx) ) %= \half \gamma^i F^a_{ij}(\bx)
+\psi
+A_0
+\widehat{H} = - \frac{1}{2} \hbar^2\varkappa^2 \frac{\partial^2}{\partial A^a_{i}\partial A^a_{i} } -  \frac{ig}{2}\hbar\varkappa  C^a{}_{bc}A^b_i A^c_j  \gamma^j  \frac{\partial}{\partial A^a_i  }
+i\hbar\varkappa \gamma^\mu\partial_\mu \Psi =\widehat{H} \Psi .
+\varkappa
+\widehat{H}'= - \frac{1}{2} Q^\dag{}^a_i Q^a_i ,
+\widehat{{{\bf H}}}'
+K_\epsilon({\bf x},{\bf x}')
+\hat{N}
+{\bf \Psi}_S
+\widehat{H}
+\delta^{n-1} (0)
+p^i_a ({\bf x}) = i  \frac{\delta}{\delta A^a_i({\bf x})} .
+\frac{\delta {\bf N}}{\delta A_a^j({\bf x})} = \gamma^i (  \partial_{[i} A^a_{j]} ({\bf x})- \frac{g}{2} C^a{}_{bc}A^b_{j}({\bf x}) A^c_{i}({\bf x}) ) = \frac{1}{2} \gamma^i F^a_{ij}({\bf x})
+\Psi_\Sigma
+p^i_a ({\bf x}) := \frac{\delta \int\!d{\bf x}\, L}{\delta (\partial_t A^a_i) ({\bf x})}= F_a^{i0} ({\bf x}) ,
+\pi_a^{\nu\mu} %\beq %D_\mu := \der_\mu - ig A_\mu%\eeq:= \frac{\partial L}{\partial(\partial_\mu A^a_\nu)} = -\partial^\mu A_a^\nu + \partial^\nu A_a^\mu - g C_a{}_{bc} A^b_\mu A^c_\nu = - F_a^{\mu\nu},
+\Psi (A_{a\mu}, x^\nu)
+\left ( \frac{\delta {\bf N}}{\delta A ({\bf x})} \right )^2 = - \frac{1}{4} F^a_{ij} F^a_{ij} .
+A^0_a=0
+{\cal E}
+\partial_A (iN) \partial_A (iN) &=& -\frac{1}{4}g^2 CAACAA , \nonumber \\  igCA\!\not\hspace{-3.5pt} A\,\partial_A (iN) &=& - \frac{1}{2} g^2CAACAA , \\ \partial_{AA} N &=& 0,  \nonumber
+||{\bf \Psi}||
+e^{-iN}
+A_a^\nu (x)
+A^a_0(x)=0
+\Psi (A,x)
+Psi_\Sigma
+\widehat{H}'
+%\left < \Psi\right | \left. \Psi\right > := \int [dA] \Psib\Psi  %
+(\Phi,\Psi):= tr \int\! dA \, \overline{\Phi} \Psi ,
+1/\epsilon^{n-1}
+\widehat{{{\bf H}}}'  = e^{-i{\bf N}}||\widehat{{{\bf H}}}||e^{i{\bf N}} ,
+A_0^a({\bf x})=0
+\int\! d{\bf x}'\, K_\epsilon({\bf x},{\bf x}')\, \delta {\bf N}/\delta A({\bf x}')
+\delta^{n-1} (0) \rightarrow \varkappa
+\frac{\delta}{\delta y(\bx)}
+CA\!\not\hspace{-3.5pt} A\,\partial_A
+\frac{\delta^2 {\bf N} }{\delta^2 A ({\bf x})} \sim \gamma \cdot \partial \,\delta (0) = 0 ,  % ??? \gamma^i ( \der_{[i} A_{j]}
+F^a_{ij}
+i\partial_t {\bf \Psi} &=& tr \left \{ ||{\bf \Psi}||\varkappa \int \!d{\bf x}\, \Psi_\Sigma^{-1} i\partial_t \Psi_\Sigma   \right \} , \\ \frac{\delta{\bf \Psi}}{\delta A^i_a({\bf x})}  &=&tr \left \{   ||{\bf \Psi}|| \varkappa \Psi_\Sigma^{-1}  \frac{\partial}{\partial A_a^i} \Psi_\Sigma   \right \} ,
+i\partial_t\Psi_\Sigma
+H^0
+||\widehat{{\bf H}}|| &=& \int d{\bf x} \left ( -  \frac{1}{2} \frac{\delta^2  }{\delta A_i^a({\bf x})\delta A_i^a({\bf x})}  - \frac{ig}{2}  C^a{}_{bc}A^b_i({\bf x}) A^c_j({\bf x})  \gamma^j  \frac{\delta}{\delta A^a_i({\bf x})}  \right . \nonumber \\ &&  \qquad \qquad+  i\partial_{{[i}} A^a_{j]} ({\bf x}) \gamma^i \frac{\delta }{\delta A^a_j({\bf x})} \left . \phantom{\frac{1}{1}}\hspace{-9pt} \right ) .
+(A_a^\nu, x^\mu)
+A_a^j({\bf x})
+\frac{d}{dx^i} : = \partial_i + \partial_i A^a_j ({\bf x})\frac{\partial}{\partial A^a_j }
+{\bf x}
+\frac{1}{2}(1+\beta)
+A^a_0 (\bx) = 0
+[dA] :=\Pi_{a,\mu} dA^a_\mu
+K_\epsilon ({\bf x}, {\bf x}'):= \left\{ \begin{array}{ccl} 1/\epsilon^{n-1} &\mbox{\rm if}& |{\bf x}-{\bf x}'| \leq \epsilon, \\0 &\mbox{\rm if}& |{\bf x}-{\bf x}'| > \epsilon \end{array}\right .
+H_\mu \neq 0
+L= - \frac{1}{4} F_{a\mu\nu}F^{a\mu\nu},
+\partial_\mu \pi^{\nu\mu}_a &=& -\frac{\partial H}{\partial A^a_\nu} \;\;=\;\; -g\, C_{abc}A^b_\mu\pi^{\nu\mu}_c  , \\ \partial_{[\mu} A^a_{\nu]} &=& \, \frac{\partial H}{\partial \pi^{\nu\mu}_a}  \quad\! =\;\; \frac{1}{2} \pi_{\mu\nu}^a - \frac{1}{2}g\, C^a_{bc}A^b_\mu A^c_\nu .
+\Psi (A,{\bf x},t)
+\widehat{H} =  \frac{1}{2} \hbar^2\varkappa^2 \frac{\partial}{\partial A_a^\mu\partial A^a_\mu } - \frac{1}{2}ig\hbar\varkappa  C^a{}_{bc}A^b_\mu A^c_\nu \gamma^\nu \frac{\partial}{\partial A^a_\mu } \; ,
+A_0^a
+2+1
+i\hbar\varkappa \gamma^\mu \partial_\mu\overline{\Psi} = - \widehat{H}\overline{\Psi} \quad ??
+\partial_\mu H = 0
+A_0^a=0
+H^1 =: H_\mu \gamma^\mu
+\widehat{H}' %&=& \frac{\hbar^2\varkappa^2}{2}\der_{AA} %+ \frac{1}{8}g^2 CA\not\hspace{-3.5pt} A CA\not\hspace{-3.5pt} A %\nn \\ &=& \frac{1}{2}\hbar^2\varkappa^2 \frac{\partial^2}{\partial A_a^\mu\partial A^a_\mu } + \frac{1}{8}g^2 C^a{}_{bc}A^b_\mu A^c_\nu C_{ade}A^d{}^\mu A^e{}^\nu  .
+CA\!\not\hspace{-3.5pt}A\,\partial_A
+\partial_A
+\hbar\varkappa\frac{\partial}{\partial A_a^\mu} N = \frac{1}{2} g C^a{}_{bc} A^b_\mu A^c_\sigma  \gamma^\sigma ,
+\gamma^{(i} \frac{\partial}{\partial A^a_{j)}} \Psi (1+\beta) = 0.
+\not\hspace{-3.5pt} A
+\Psi = \psi + \psi_\nu\gamma^\nu
+dA = \Pi_{\mu}\Pi_a \ dA^a_\mu
+e^{-i{\bf N}}||\widehat{{{\bf H}}}|| e^{i{\bf N}}&=&  \frac{1}{2} \int \! d{\bf x} \, \left (-\frac{\delta^2 i{\bf N} }{\delta^2 A ({\bf x})} - \left ( \frac{\delta i{\bf N}}{\delta A ({\bf x})} \right )^ 2 - 2 \frac{\delta i{\bf N}}{\delta A ({\bf x})}\frac{\delta }{\delta A ({\bf x})} - \frac{\delta^2  }{\delta^2 A ({\bf x})} \right.\nonumber \\ && \left.\hspace*{-75pt} + \; 2 e^{-i{\bf N}} \left [- \frac{ig}{2}  C^a{}_{bc}A^b_j({\bf x}) A^c_i({\bf x})  +  i\partial_{[i} A^a_{j]} ({\bf x}) \right ] \gamma^i e^{i{\bf N}}   \left ( \frac{\delta i{\bf N}}{\delta A^a_j ({\bf x})} + \frac{\delta }{\delta A^a_j ({\bf x})}\right ) \right ) .
+Q^a_i =  i \hbar\varkappa\frac{\partial}{\partial A^a_i} - \frac{1}{2}g  C^a_{bc}  A^b_i A^c_j \gamma^j , %\quad  \gamma^{(i}\gamma^{j)}=-  \delta^{ij},
+\psi_\mu
+\pi_a^{\mu\nu}+\pi_a^{\nu\mu} \approx 0
+\int\!d{\bf x} \left ( \partial_i \frac{\delta}{\delta A_{ai}}   +? g C^a_{bc} A^b_i \frac{\delta}{\delta A_{ci}}\right ) {\bf \Psi}
++ - - -
+%aH%&:=& = \pi_a^{\nu\mu}\partial_\mu A^a_\nu - L %\nn \\ %&=& = -\frac{1}{4} \pi_{a\mu\nu} \pi^{a\mu\nu} + \frac{g}{2} C^a{}_{bc}A^b_\mu A^c_\nu \pi_a^{\mu\nu} .
+\delta (0)
+i \partial_\mu \psi^\mu &=& H^0\psi + H_\mu\psi^\mu , \\i \partial_\mu \psi &=& H^0\psi_\mu + H_\mu\psi , \\ i\partial_{[\mu} \psi_{\nu ]} &=& H_{[\mu}\psi_{\nu ]} .
+\partial_\mu \, tr \int\! dy \, (\overline{\Psi}  \gamma^\mu \Psi) &=& tr \!\int\! dy \, \partial_\mu \overline{\Psi} \gamma^\mu \Psi + \overline{\Psi} \gamma^\mu \partial_\mu \Psi \nonumber \\&=& - \frac{1}{i\hbar\kappa} tr\! \int\! dy \, (\widehat{H}\overline{\Psi})\Psi -\overline{\Psi} (\widehat{H}\Psi) \;\;=\;\; 0  \quad ??
+\gamma^\mu
+\nu=0
+C^e{}_{ab}C^d{}_{ec} + C^e{}_{bc}C^d{}_{ea} + C^e{}_{ca}C^d{}_{eb}=0.
+{{\bf H}}[A({\bf x}), p^i_a ({\bf x})] &:=& \int \! d{\bf x}\, \left ( p^i_a ({\bf x}) \partial_{_t} A^a_i ({\bf x}) - L \right ) \nonumber \\&=& \int \! d{\bf x}\, \left ( \frac{1}{2} p^i_a({\bf x}) p^i_a({\bf x}) %F_a^{i0} F_a^{i0} + \frac{1}{4}  F_a{}^{ij}({\bf x}) F_a{}^{ij}({\bf x})  \right ) .
+H^0 (i \partial_{[\mu} \psi_{\nu ]} - H_{[\mu}\psi_{\nu ]}  ) + [H^0,H_{[\mu}] \psi_{\nu ]} - \frac{1}{2} [H_{\mu}, H_{\nu}]\psi = 0 .
+A=A ({\bf x})
+||\widehat{{\bf H}}||
+\int \!d{\bf x}\, \Psi_\Sigma^{-1} \alpha^i \frac{d}{dx^i} \Psi_\Sigma
+\widehat{{\bf H}}_S =  \int \! d{\bf x}\,  \left ( -\frac{1}{2} \frac{\delta}{\delta A^i_a({\bf x})}\frac{\delta}{\delta A^i_a({\bf x})} + \frac{1}{4} F^a_{ij}({\bf x}) F^a_{ij}({\bf x})   \right) .

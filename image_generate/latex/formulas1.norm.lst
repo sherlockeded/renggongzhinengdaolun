@@ -1,0 +1,154 @@
+\delta \BPsi / \delta A _ { 0 } ^ { a } ( \bx ) = 0
+A _ { 0 } ^ { a }
+\hbar = 1
+H ^ { 0 } i \partial _ { [ \mu } \psi _ { \nu ] } - H _ { [ \mu } H ^ { 0 } \psi _ { \nu ] } - H _ { [ \mu } H _ { \nu ] } \psi = 0 ,
+{ \bf N }
+
+{ \cal C } _ { [ A _ { 0 } , A ] }
+[ H ^ { 0 } , H _ { \mu } ] = 0 .
+\hat { \pi } _ { a } ^ { \nu \mu } = - i \hbar \varkappa \gamma ^ { \mu } \frac { \partial } { \partial A _ { \nu } ^ { a } } ,
+\Psi
+\widehat { H } = - \frac { 1 } { 2 } \hbar ^ { 2 } \varkappa ^ { 2 } \frac { \partial } { \partial A _ { a i } \partial A _ { a i } } - \frac { i g } { 2 } \hbar \varkappa C ^ { a } { } _ { b c } A _ { i } ^ { b } A _ { j } ^ { c } \gamma ^ { j } \frac { \partial } { \partial A _ { i } ^ { a } } .
+{ \bf N } [ A ( { \bf x } ) , F ( { \bf x } ) ] = \frac { 1 } { 2 } \int \! d { \bf x } \gamma ^ { i } F _ { i j } ^ { a } ( { \bf x } ) A _ { a } ^ { j } ( { \bf x } ) ? ? ? ? ? ?
+{ \bf \Psi } _ { S } = t r \left\{ e ^ { - i { \bf N } } | | { \bf \Psi } | | \right\} .
+\frac { 1 } { \varkappa } \what { H }
+\psi _ { \mu \nu } = 0
+\Psib
+\sim \gamma ^ { i } \partial / \partial A _ { j } ^ { a }
+A _ { d } ^ { k } ( { \bf x } ^ { \prime } )
+N ( A , [ { \cal C } ] ) = \frac { 1 } { 2 } \frac { g } { \hbar \varkappa } \int _ { { \cal C } _ { [ A _ { 0 } , A ] } } C ^ { a } { } _ { b c } A _ { \mu } ^ { b } A _ { \sigma } ^ { c } \gamma ^ { \sigma } d A _ { a } ^ { \mu } ,
+C _ { a b c }
+1 / \epsilon
+\widehat { H } ^ { \prime } = - \frac { 1 } { 2 } \hbar ^ { 2 } \varkappa ^ { 2 } \frac { \partial } { \partial A _ { i } ^ { a } \partial A _ { i } ^ { a } } + \frac { 1 } { 8 } g ^ { 2 }
+H _ { \mu } = 0
+{ } [ H _ { \mu } , H _ { \nu } ]
+- \delta ^ { i j }
+
+\left< \Psi \right| \hat { \pi } _ { a } ^ { ( \nu \mu ) } \left| \Psi \right> = 0 ,
+\int \! d { \bf x } \int \! d { \bf x } ^ { \prime } \, K _ { \epsilon } ( { \bf x } , { \bf x } ^ { \prime } ) \frac { \delta } { \delta A _ { a } ^ { i } ( { \bf x } ) } \frac { \delta } { \delta A _ { a } ^ { i } ( { \bf x } ^ { \prime } ) } \; .
++ - . . . -
+\left( \partial _ { i } \frac { \delta } { \delta A _ { i } ^ { a } ( { \bf x } ) } \, + \, g C ^ { a } { } _ { b c } A _ { i } ^ { b } \frac { \delta } { \delta A _ { i } ^ { c } ( { \bf x } ) } \right) { \bf \Psi } = 0 ,
+F _ { \mu \nu } ^ { a } : = \partial _ { \mu } A _ { \nu } ^ { a } - \partial _ { \nu } A _ { \mu } ^ { a } + g C ^ { a } { } _ { b c } A _ { \mu } ^ { b } A _ { \nu } ^ { c } ,
+{ \bf \Psi } = { \bf \Psi } ( [ A _ { i } ^ { a } ( { \bf x } ) ] , t )
+\widehat { H } = H ^ { 0 } + H ^ { 1 } ,
+A _ { a } ^ { \nu }
+x ^ { \mu } = : ( { \bf x } , t )
+\Omega : = d \pi _ { a } ^ { \mu \nu } \wedge d A _ { [ \mu } ^ { a } \wedge \omega _ { \nu ] }
+\overline { { \Phi } }
+\BPsi _ { S }
+K _ { \epsilon } ( \bx , \bx ^ { \prime } )
+\partial _ { i } < \widehat { \pi } { } _ { a } ^ { 0 i } > + g < C _ { a b c } A _ { b i } \widehat { \pi } { } _ { c } ^ { 0 i } > = 0 .
+i \partial _ { t } { \bf \Psi } = \int \! d { \bf x } \, \left( - \frac { 1 } { 2 } \ \frac { \delta } { \delta A _ { a } ^ { i } ( { \bf x } ) } \frac { \delta } { \delta A _ { a } ^ { i } ( { \bf x } ) } + \frac { 1 } { 4 } F _ { a } { } ^ { i j } ( { \bf x } ) F _ { a } { } ^ { i j } ( { \bf x } ) \right) { \bf \Psi } .
+\widehat { H } ^ { \prime } = e ^ { - i \hat { N } } \widehat { H } e ^ { i \hat { N } }
+\left< \right. \hat { \pi } _ { a } ^ { ( \nu \mu ) } \left. \right> = 0 .
+i \partial _ { t } \Psi _ { \Sigma } = - i \alpha ^ { i } \left( \frac { d } { d x ^ { i } } - \partial _ { [ i } A { } _ { j ] } ^ { a } ( { \bf x } ) \frac { \partial } { \partial A _ { j } ^ { a } } \right) \Psi _ { \Sigma } + \beta \widehat { H } \Psi _ { \Sigma } ,
+{ \bf \Psi } ( [ A ( { \bf x } ) ] , t )
+i \partial _ { t } \, t r \left\{ \phantom { \widehat { { \bf H } } | | } \hspace { - 1 5 p t } | | { \bf \Psi } | | \right\} = t r \left\{ | | \widehat { { \bf H } } | | \, | | { \bf \Psi } | | \right\} ,
+\Psi _ { \Sigma } ( A ( { \bf x } ) , { \bf x } , t )
+\operatorname* { l i m } _ { \epsilon \rightarrow 0 } K _ { \epsilon } ( { \bf x } , { \bf x } ^ { \prime } ) = \delta ( { \bf x } - { \bf x } ^ { \prime } ) .
+A ( { \bf x } )
+\partial _ { [ i } A { } ^ { a } { } _ { j ] } ( { \bf x } )
+\Sigma
+\left| \Psi \right> ^ { ( + ) }
+\varkappa \rightarrow \delta ^ { n - 1 } ( 0 )
+A _ { i } ^ { a } ( { \bf x } )
+\hbar \varkappa = 1
+K _ { \epsilon } ( { \bf x } , { \bf x } ^ { \prime } ) = \delta ( { \bf x } - { \bf x } ^ { \prime } )
+\beq \widehat { H } = \frac { 1 } { 2 } \hbar ^ { 2 } \varkappa ^ { 2 } \partial _ { A A } - \frac { 1 } { 2 } i g \hbar \varkappa \, C A \! \not \hspace { - 3 . 5 p t } A \, \partial _ { A } .
+\Psi ( A _ { a } ^ { \mu } , x ^ { \nu } )
+\frac { \delta ^ { 2 } { \bf \Psi } } { \delta A _ { i } ^ { a } ( { \bf x } ) \delta A _ { i } ^ { a } ( { \bf x } ) } = t r \left\{ | | { \bf \Psi } | | \, \varkappa ^ { 2 } \Psi _ { \Sigma } ^ { - 1 } \frac { \partial ^ { 2 } } { \partial A _ { i } ^ { a } \partial A _ { i } ^ { a } } \Psi _ { \Sigma } \right\} .
+{ \bf \Psi } ( [ A _ { i } ^ { a } ( { \bf x } ) ] , t ) = t r \left\{ ( 1 + \beta ) e ^ { \varkappa \int d { \bf x } \operatorname { l n } \Psi _ { \Sigma } ( A _ { i } ^ { a } ( { \bf x } ) , { \bf x } , t ) } \right\} = : t r \left\{ | | { \bf \Psi } | | \right\} ,
+( A _ { \mu } ^ { a } = A _ { \mu } ^ { a } ( { \bf x } ) , t = c o n s t )
+\Psi = \psi + \psi _ { \mu } \gamma ^ { \mu } + \frac { 1 } { 2 ! } \psi _ { \mu \nu } \gamma ^ { \mu \nu } + . . .
+| \bx - \bx ^ { \prime } |
+
+\psi
+A _ { 0 }
+\widehat { H } = - \frac { 1 } { 2 } \hbar ^ { 2 } \varkappa ^ { 2 } \frac { \partial ^ { 2 } } { \partial A _ { i } ^ { a } \partial A _ { i } ^ { a } } - \frac { i g } { 2 } \hbar \varkappa C ^ { a } { } _ { b c } A _ { i } ^ { b } A _ { j } ^ { c } \gamma ^ { j } \frac { \partial } { \partial A _ { i } ^ { a } }
+i \hbar \varkappa \gamma ^ { \mu } \partial _ { \mu } \Psi = \widehat { H } \Psi .
+\varkappa
+\widehat { H } ^ { \prime } = - \frac { 1 } { 2 } Q ^ { \dag } { } _ { i } ^ { a } Q _ { i } ^ { a } ,
+\widehat { { { \bf H } } } ^ { \prime }
+K _ { \epsilon } ( { \bf x } , { \bf x } ^ { \prime } )
+\hat { N }
+{ \bf \Psi } _ { S }
+\widehat { H }
+\delta ^ { n - 1 } ( 0 )
+p _ { a } ^ { i } ( { \bf x } ) = i \frac { \delta } { \delta A _ { i } ^ { a } ( { \bf x } ) } .
+\frac { \delta { \bf N } } { \delta A _ { a } ^ { j } ( { \bf x } ) } = \gamma ^ { i } ( \partial _ { [ i } A _ { j ] } ^ { a } ( { \bf x } ) - \frac { g } { 2 } C ^ { a } { } _ { b c } A _ { j } ^ { b } ( { \bf x } ) A _ { i } ^ { c } ( { \bf x } ) ) = \frac { 1 } { 2 } \gamma ^ { i } F _ { i j } ^ { a } ( { \bf x } )
+\Psi _ { \Sigma }
+p _ { a } ^ { i } ( { \bf x } ) : = \frac { \delta \int \! d { \bf x } \, L } { \delta ( \partial _ { t } A _ { i } ^ { a } ) ( { \bf x } ) } = F _ { a } ^ { i 0 } ( { \bf x } ) ,
+\pi _ { a } ^ { \nu \mu }
+\Psi ( A _ { a \mu } , x ^ { \nu } )
+\left( \frac { \delta { \bf N } } { \delta A ( { \bf x } ) } \right) ^ { 2 } = - \frac { 1 } { 4 } F _ { i j } ^ { a } F _ { i j } ^ { a } .
+A _ { a } ^ { 0 } = 0
+{ \cal E }
+
+| | { \bf \Psi } | |
+e ^ { - i N }
+A _ { a } ^ { \nu } ( x )
+A _ { 0 } ^ { a } ( x ) = 0
+\Psi ( A , x )
+P s i _ { \Sigma }
+\widehat { H } ^ { \prime }
+\left< \Psi \right| \left. \Psi \right> : = \int [ d A ] \Psib \Psi
+( \Phi , \Psi ) : = t r \int \! d A \, \overline { { \Phi } } \Psi ,
+1 / \epsilon ^ { n - 1 }
+\widehat { { { \bf H } } } ^ { \prime } = e ^ { - i { \bf N } } | | \widehat { { { \bf H } } } | | e ^ { i { \bf N } } ,
+A _ { 0 } ^ { a } ( { \bf x } ) = 0
+\int \! d { \bf x } ^ { \prime } \, K _ { \epsilon } ( { \bf x } , { \bf x } ^ { \prime } ) \, \delta { \bf N } / \delta A ( { \bf x } ^ { \prime } )
+\delta ^ { n - 1 } ( 0 ) \rightarrow \varkappa
+\frac { \delta } { \delta y ( \bx ) }
+C A \! \not \hspace { - 3 . 5 p t } A \, \partial _ { A }
+\frac { \delta ^ { 2 } { \bf N } } { \delta ^ { 2 } A ( { \bf x } ) } \sim \gamma \cdot \partial \, \delta ( 0 ) = 0 ,
+F _ { i j } ^ { a }
+
+i \partial _ { t } \Psi _ { \Sigma }
+H ^ { 0 }
+
+( A _ { a } ^ { \nu } , x ^ { \mu } )
+A _ { a } ^ { j } ( { \bf x } )
+\frac { d } { d x ^ { i } } : = \partial _ { i } + \partial _ { i } A _ { j } ^ { a } ( { \bf x } ) \frac { \partial } { \partial A _ { j } ^ { a } }
+{ \bf x }
+\frac { 1 } { 2 } ( 1 + \beta )
+A _ { 0 } ^ { a } ( \bx ) = 0
+[ d A ] : = \Pi _ { a , \mu } d A _ { \mu } ^ { a }
+
+H _ { \mu } \neq 0
+L = - \frac { 1 } { 4 } F _ { a \mu \nu } F ^ { a \mu \nu } ,
+
+\Psi ( A , { \bf x } , t )
+\widehat { H } = \frac { 1 } { 2 } \hbar ^ { 2 } \varkappa ^ { 2 } \frac { \partial } { \partial A _ { a } ^ { \mu } \partial A _ { \mu } ^ { a } } - \frac { 1 } { 2 } i g \hbar \varkappa C ^ { a } { } _ { b c } A _ { \mu } ^ { b } A _ { \nu } ^ { c } \gamma ^ { \nu } \frac { \partial } { \partial A _ { \mu } ^ { a } } \; ,
+A _ { 0 } ^ { a }
+2 + 1
+i \hbar \varkappa \gamma ^ { \mu } \partial _ { \mu } \overline { { \Psi } } = - \widehat { H } \overline { { \Psi } } \quad ? ?
+\partial _ { \mu } H = 0
+A _ { 0 } ^ { a } = 0
+H ^ { 1 } = : H _ { \mu } \gamma ^ { \mu }
+\widehat { H } ^ { \prime }
+C A \! \not \hspace { - 3 . 5 p t } A \, \partial _ { A }
+\partial _ { A }
+\hbar \varkappa \frac { \partial } { \partial A _ { a } ^ { \mu } } N = \frac { 1 } { 2 } g C ^ { a } { } _ { b c } A _ { \mu } ^ { b } A _ { \sigma } ^ { c } \gamma ^ { \sigma } ,
+\gamma ^ { ( i } \frac { \partial } { \partial A _ { j ) } ^ { a } } \Psi ( 1 + \beta ) = 0 .
+\not \hspace { - 3 . 5 p t } A
+\Psi = \psi + \psi _ { \nu } \gamma ^ { \nu }
+d A = \Pi _ { \mu } \Pi _ { a } \ d A _ { \mu } ^ { a }
+
+Q _ { i } ^ { a } = i \hbar \varkappa \frac { \partial } { \partial A _ { i } ^ { a } } - \frac { 1 } { 2 } g C _ { b c } ^ { a } A _ { i } ^ { b } A _ { j } ^ { c } \gamma ^ { j } ,
+\psi _ { \mu }
+\pi _ { a } ^ { \mu \nu } + \pi _ { a } ^ { \nu \mu } \approx 0
+\int \! d { \bf x } \left( \partial _ { i } \frac { \delta } { \delta A _ { a i } } + ? g C _ { b c } ^ { a } A _ { i } ^ { b } \frac { \delta } { \delta A _ { c i } } \right) { \bf \Psi }
++ - - -
+a H
+\delta ( 0 )
+
+
+\gamma ^ { \mu }
+\nu = 0
+C ^ { e } { } _ { a b } C ^ { d } { } _ { e c } + C ^ { e } { } _ { b c } C ^ { d } { } _ { e a } + C ^ { e } { } _ { c a } C ^ { d } { } _ { e b } = 0 .
+
+H ^ { 0 } ( i \partial _ { [ \mu } \psi _ { \nu ] } - H _ { [ \mu } \psi _ { \nu ] } ) + [ H ^ { 0 } , H _ { [ \mu } ] \psi _ { \nu ] } - \frac { 1 } { 2 } [ H _ { \mu } , H _ { \nu } ] \psi = 0 .
+A = A ( { \bf x } )
+| | \widehat { { \bf H } } | |
+\int \! d { \bf x } \, \Psi _ { \Sigma } ^ { - 1 } \alpha ^ { i } \frac { d } { d x ^ { i } } \Psi _ { \Sigma }
+\widehat { { \bf H } } _ { S } = \int \! d { \bf x } \, \left( - \frac { 1 } { 2 } \frac { \delta } { \delta A _ { a } ^ { i } ( { \bf x } ) } \frac { \delta } { \delta A _ { a } ^ { i } ( { \bf x } ) } + \frac { 1 } { 4 } F _ { i j } ^ { a } ( { \bf x } ) F _ { i j } ^ { a } ( { \bf x } ) \right) .
